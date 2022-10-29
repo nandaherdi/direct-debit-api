@@ -1,0 +1,10 @@
+POST http://localhost:3000/direct-debit/payment-host-to-host/
+X-API-Key: RAHASIA
+Accept: application/json
+Content-Type: application/json
+
+{
+  "partnerReferenceNo": "23g4hj23g",
+  "amount": 1230000,
+  "currency": "IDR"
+}
