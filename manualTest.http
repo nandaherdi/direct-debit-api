@@ -4,7 +4,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "partnerReferenceNo": "23g4hj23g",
-  "amount": 1230000,
+  "partnerReferenceNo": "hahe",
+  "amount": 8000,
   "currency": "IDR"
 }
